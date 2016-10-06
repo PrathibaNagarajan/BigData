@@ -1,0 +1,2 @@
+Uses Map Reduce programming with Mapr DB and Hadoop to extract email domains (without LDAP form) connected to J Skilling at ENRON i.e., domains from emails sent and received.
+Includes a custom partitioner for multiple reducers
